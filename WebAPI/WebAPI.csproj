@@ -10,4 +10,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\luiz.henrique\Documents\GitHub\WebAPI\WebAPI\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\luiz.henrique\Documents\GitHub\WebAPI\WebAPI\.editorconfig" />
+  </ItemGroup>
+
 </Project>
